@@ -9,11 +9,14 @@ hello world!
 ```
 
 ### 3.多行代码
-    ```javascript
-    function myFunction() {
-    document.write(Date());
-}
-    ```
+```javascript
+    function f()
+  {
+  console.log('hello world')
+  }
+
+   f()
+```
     
 ### 4.猪的爱好
 ```
